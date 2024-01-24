@@ -11,7 +11,7 @@ This is an iOS quiz app that analyzes user responses to determine if they have t
 - Constant and Variable Scope
 - Enumerations
 
-## SDK
+#### SDK
 - Segues and Navigations Controllers
 - Tab Bar Controllers
 - View Controller Life Cycle
